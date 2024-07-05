@@ -17,5 +17,5 @@ The Image Gallery is a visually appealing image gallery that displays images in 
 - **CSS:** For styling the gallery items, hover effects, modal, and other elements.
 - **JavaScript:** For handling interactions such as opening the modal, implementing the auto-zoom feature, and managing events.
 
-![Image Gallery](ImageGallery.jpeg)
+![Image Gallery](images/ImageGallery.jpeg)
 
